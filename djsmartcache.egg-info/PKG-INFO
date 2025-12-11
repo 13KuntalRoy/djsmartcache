@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: djsmartcache
+Version: 0.1.0
+Summary: Distributed cache consistency layer for Django using Redis
+Author: Kuntal Roy
+License: MIT
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+
+# djsmartcache
+Distributed cache consistency library.
