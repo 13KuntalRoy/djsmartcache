@@ -2,7 +2,7 @@ from django.apps import AppConfig
 from django.conf import settings
 
 class SmartcacheConfig(AppConfig):
-    name = 'smartcache'
+    name = 'djsmartcache'
     verbose_name = 'SmartCache'
 
     def ready(self):
